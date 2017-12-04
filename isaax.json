@@ -2,7 +2,7 @@
   "name": "javascript-app",
   "version": "",
   "description": "My Javascript app",
-  "main": "app.js",
+  "main": "index.js",
   "author": "auth",
   "license": "",
   "language":"javascript",
