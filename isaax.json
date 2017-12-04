@@ -1,0 +1,13 @@
+{
+  "name": "javascript-app",
+  "version": "",
+  "description": "My Javascript app",
+  "main": "app.js",
+  "author": "auth",
+  "license": "",
+  "language":"javascript",
+  "scripts": {
+     "start": "node index.js"
+    },
+   "dependency": null
+}
